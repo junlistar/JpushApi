@@ -1,0 +1,7 @@
+D:\JHBDesign\src\cn.jpush.api\bin\Release-Test\cn.jpush.api.dll
+D:\JHBDesign\src\cn.jpush.api\bin\Release-Test\cn.jpush.api.pdb
+D:\JHBDesign\src\cn.jpush.api\bin\Release-Test\Newtonsoft.Json.dll
+D:\JHBDesign\src\cn.jpush.api\bin\Release-Test\Newtonsoft.Json.xml
+D:\JHBDesign\src\cn.jpush.api\obj\Release-Test\cn.jpush.api.csprojResolveAssemblyReference.cache
+D:\JHBDesign\src\cn.jpush.api\obj\Release-Test\cn.jpush.api.dll
+D:\JHBDesign\src\cn.jpush.api\obj\Release-Test\cn.jpush.api.pdb

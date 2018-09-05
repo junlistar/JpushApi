@@ -1,0 +1,14 @@
+D:\JHBDesign\src\cn.jpush.api\bin\Release\cn.jpush.api.dll
+D:\JHBDesign\src\cn.jpush.api\bin\Release\cn.jpush.api.pdb
+D:\JHBDesign\src\cn.jpush.api\bin\Release\Newtonsoft.Json.dll
+D:\JHBDesign\src\cn.jpush.api\bin\Release\Newtonsoft.Json.xml
+D:\JHBDesign\src\cn.jpush.api\obj\Release\cn.jpush.api.csprojResolveAssemblyReference.cache
+D:\JHBDesign\src\cn.jpush.api\obj\Release\cn.jpush.api.dll
+D:\JHBDesign\src\cn.jpush.api\obj\Release\cn.jpush.api.pdb
+F:\work\AdminV2\cn.jpush.api\bin\Release\cn.jpush.api.dll
+F:\work\AdminV2\cn.jpush.api\bin\Release\cn.jpush.api.pdb
+F:\work\AdminV2\cn.jpush.api\bin\Release\Newtonsoft.Json.dll
+F:\work\AdminV2\cn.jpush.api\bin\Release\Newtonsoft.Json.xml
+F:\work\AdminV2\cn.jpush.api\obj\Release\cn.jpush.api.dll
+F:\work\AdminV2\cn.jpush.api\obj\Release\cn.jpush.api.pdb
+F:\work\AdminV2\cn.jpush.api\obj\Release\cn.jpush.api.csprojResolveAssemblyReference.cache
